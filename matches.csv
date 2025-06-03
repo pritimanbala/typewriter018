@@ -1,0 +1,666 @@
+Season,Home,Home_xG,Home_goals,Away_goals,Away_xG,Away,Round
+2023/24,Young Boys,0.5,1,3,2.6,RB Leipzig,GS
+2023/24,Milan,1.9,0,0,0.3,Newcastle Utd,GS
+2023/24,Manchester City,4.1,3,1,0.8,Red Star,GS
+2023/24,Barcelona,2.8,5,0,0.3,Antwerp,GS
+2023/24,Paris S-G,2.4,2,0,0.7,Dortmund,GS
+2023/24,Lazio,1.2,1,1,0.9,Atlético Madrid,GS
+2023/24,Feyenoord,1.6,2,0,0.3,Celtic,GS
+2023/24,Shakhtar,0.5,1,3,1.8,Porto,GS
+2023/24,Real Madrid,3.7,1,0,0.2,Union Berlin,GS
+2023/24,Galatasaray,1.1,2,2,0.6,FC Copenhagen,GS
+2023/24,Benfica,1.5,0,2,3.3,RB Salzburg,GS
+2023/24,Braga,1.4,1,2,1.7,Napoli,GS
+2023/24,Arsenal,2.3,4,0,0.5,PSV Eindhoven,GS
+2023/24,Real Sociedad,1.3,1,1,0.5,Inter,GS
+2023/24,Sevilla,0.8,1,1,1.3,Lens,GS
+2023/24,Bayern Munich,2.2,4,3,1.7,Manchester Utd,GS
+2023/24,RB Salzburg,0.6,0,2,1.2,Real Sociedad,GS
+2023/24,Union Berlin,2.0,2,3,1.2,Braga,GS
+2023/24,Manchester Utd,2.3,2,3,2.6,Galatasaray,GS
+2023/24,FC Copenhagen,0.9,1,2,0.9,Bayern Munich,GS
+2023/24,PSV Eindhoven,2.6,2,2,1.3,Sevilla,GS
+2023/24,Inter,3.8,1,0,0.3,Benfica,GS
+2023/24,Napoli,1.9,2,3,1.4,Real Madrid,GS
+2023/24,Lens,0.7,2,1,1.5,Arsenal,GS
+2023/24,Atlético Madrid,0.8,3,2,2.4,Feyenoord,GS
+2023/24,Antwerp,1.8,2,3,2.3,Shakhtar,GS
+2023/24,Dortmund,0.7,0,1,1.3,Barcelona,GS
+2023/24,Newcastle Utd,0.9,4,1,0.9,Paris S-G,GS
+2023/24,Celtic,1.1,1,2,0.7,Lazio,GS
+2023/24,Dortmund,1.0,0,0,1.6,Milan,GS
+2023/24,Red Star,2.6,2,2,2.6,Young Boys,GS
+2023/24,RB Leipzig,0.5,1,3,2.2,Manchester City,GS
+2023/24,Inter,2.3,2,1,0.5,RB Salzburg,GS
+2023/24,Galatasaray,2.7,1,3,1.9,Bayern Munich,GS
+2023/24,Braga,1.5,1,2,0.9,Real Madrid,GS
+2023/24,Manchester Utd,1.7,1,0,1.9,FC Copenhagen,GS
+2023/24,Benfica,0.5,0,1,0.9,Real Sociedad,GS
+2023/24,Lens,1.2,1,1,0.5,PSV Eindhoven,GS
+2023/24,Union Berlin,0.4,0,1,0.2,Napoli,GS
+2023/24,Sevilla,0.8,1,2,1.9,Arsenal,GS
+2023/24,Feyenoord,2.8,3,1,2.3,Lazio,GS
+2023/24,Barcelona,2.6,2,1,0.9,Shakhtar,GS
+2023/24,Celtic,0.9,2,2,2.1,Atlético Madrid,GS
+2023/24,Newcastle Utd,1.1,0,1,1.8,Dortmund,GS
+2023/24,Antwerp,0.7,1,4,1.3,Porto,GS
+2023/24,Young Boys,0.4,1,3,4.2,Manchester City,GS
+2023/24,RB Leipzig,3.1,3,1,1.0,Red Star,GS
+2023/24,Paris S-G,1.3,3,0,0.6,Milan,GS
+2023/24,Dortmund,1.4,2,0,0.6,Newcastle Utd,GS
+2023/24,Shakhtar,0.9,1,0,0.9,Barcelona,GS
+2023/24,Porto,2.2,2,0,0.6,Antwerp,GS
+2023/24,Manchester City,3.4,3,0,0.0,Young Boys,GS
+2023/24,Red Star,1.5,1,2,2.3,RB Leipzig,GS
+2023/24,Lazio,1.1,1,0,1.4,Feyenoord,GS
+2023/24,Atlético Madrid,2.9,6,0,0.0,Celtic,GS
+2023/24,Milan,1.4,2,1,1.5,Paris S-G,GS
+2023/24,Napoli,1.7,1,1,1.1,Union Berlin,GS
+2023/24,Real Sociedad,3.3,3,1,0.8,Benfica,GS
+2023/24,Arsenal,1.5,2,0,0.0,Sevilla,GS
+2023/24,Bayern Munich,2.5,2,1,0.7,Galatasaray,GS
+2023/24,Real Madrid,3.2,3,0,1.4,Braga,GS
+2023/24,FC Copenhagen,2.2,4,3,3.0,Manchester Utd,GS
+2023/24,RB Salzburg,0.8,0,1,2.0,Inter,GS
+2023/24,PSV Eindhoven,0.8,1,0,1.1,Lens,GS
+2023/24,Lazio,2.3,2,0,0.4,Celtic,GS
+2023/24,Shakhtar,1.3,1,0,1.1,Antwerp,GS
+2023/24,Manchester City,1.8,3,2,0.5,RB Leipzig,GS
+2023/24,Young Boys,1.3,2,0,1.8,Red Star,GS
+2023/24,Paris S-G,4.4,1,1,1.3,Newcastle Utd,GS
+2023/24,Barcelona,1.8,2,1,1.1,Porto,GS
+2023/24,Milan,2.1,1,3,1.8,Dortmund,GS
+2023/24,Feyenoord,1.1,1,3,1.3,Atlético Madrid,GS
+2023/24,Sevilla,1.8,2,3,2.2,PSV Eindhoven,GS
+2023/24,Benfica,1.6,3,3,3.0,Inter,GS
+2023/24,Arsenal,2.6,6,0,0.4,Lens,GS
+2023/24,Braga,1.8,1,1,0.8,Union Berlin,GS
+2023/24,Galatasaray,1.5,3,3,1.6,Manchester Utd,GS
+2023/24,Real Madrid,2.8,4,2,1.4,Napoli,GS
+2023/24,Bayern Munich,0.7,0,0,0.7,FC Copenhagen,GS
+2023/24,Real Sociedad,1.3,0,0,0.6,RB Salzburg,GS
+2023/24,Lens,1.4,2,1,1.3,Sevilla,GS
+2023/24,PSV Eindhoven,1.3,1,1,1.0,Arsenal,GS
+2023/24,Manchester Utd,0.3,0,1,1.2,Bayern Munich,GS
+2023/24,RB Salzburg,1.6,1,3,3.1,Benfica,GS
+2023/24,Union Berlin,1.1,2,3,2.9,Real Madrid,GS
+2023/24,Napoli,1.4,2,0,1.0,Braga,GS
+2023/24,FC Copenhagen,1.3,1,0,1.4,Galatasaray,GS
+2023/24,Inter,0.7,0,0,0.7,Real Sociedad,GS
+2023/24,Red Star,1.1,2,3,1.4,Manchester City,GS
+2023/24,RB Leipzig,0.7,2,1,1.5,Young Boys,GS
+2023/24,Porto,2.7,5,3,1.5,Shakhtar,GS
+2023/24,Celtic,2.2,2,1,2.1,Feyenoord,GS
+2023/24,Newcastle Utd,1.8,1,2,1.9,Milan,GS
+2023/24,Antwerp,1.7,3,2,1.1,Barcelona,GS
+2023/24,Dortmund,1.4,1,1,2.8,Paris S-G,GS
+2023/24,Atlético Madrid,1.3,2,0,0.9,Lazio,GS
+2022/23,Dinamo Zagreb,0.6,1,0,0.9,Chelsea,GS
+2022/23,Dortmund,2.3,3,0,0.5,FC Copenhagen,GS
+2022/23,Benfica,0.9,2,0,0.1,Maccabi Haifa,GS
+2022/23,Celtic,1.4,0,3,1.9,Real Madrid,GS
+2022/23,Paris S-G,1.7,2,1,1.0,Juventus,GS
+2022/23,RB Leipzig,1.4,1,4,0.9,Shakhtar,GS
+2022/23,Sevilla,0.3,0,4,3.6,Manchester City,GS
+2022/23,RB Salzburg,1.3,1,1,0.9,Milan,GS
+2022/23,Ajax,2.1,4,0,0.1,Rangers,GS
+2022/23,Eint Frankfurt,0.8,0,3,0.9,Sporting CP,GS
+2022/23,Tottenham,1.5,2,0,0.4,Marseille,GS
+2022/23,Napoli,4.0,4,1,1.0,Liverpool,GS
+2022/23,Atlético Madrid,0.8,2,1,2.0,Porto,GS
+2022/23,Club Brugge,0.5,1,0,1.0,Leverkusen,GS
+2022/23,Inter,1.7,1,2,2.5,Bayern Munich,GS
+2022/23,Barcelona,2.3,5,1,0.8,Viktoria Plzen,GS
+2022/23,Sporting CP,0.9,2,0,0.9,Tottenham,GS
+2022/23,Viktoria Plzen,0.3,0,2,1.9,Inter,GS
+2022/23,Liverpool,2.2,2,1,0.3,Ajax,GS
+2022/23,Porto,1.0,0,4,2.7,Club Brugge,GS
+2022/23,Marseille,0.9,0,1,1.2,Eint Frankfurt,GS
+2022/23,Bayern Munich,1.7,2,0,2.0,Barcelona,GS
+2022/23,Leverkusen,1.8,2,0,0.9,Atlético Madrid,GS
+2022/23,Milan,2.2,3,1,0.4,Dinamo Zagreb,GS
+2022/23,Shakhtar,0.4,1,1,1.5,Celtic,GS
+2022/23,Manchester City,1.0,2,1,0.7,Dortmund,GS
+2022/23,Bayern Munich,2.4,5,0,0.5,Viktoria Plzen,GS
+2022/23,Marseille,2.5,4,1,0.4,Sporting CP,GS
+2022/23,Porto,1.1,2,0,1.4,Leverkusen,GS
+2022/23,Liverpool,2.9,2,0,0.4,Rangers,GS
+2022/23,Inter,0.2,1,0,0.5,Barcelona,GS
+2022/23,Eint Frankfurt,1.0,0,0,1.5,Tottenham,GS
+2022/23,Ajax,1.4,1,6,3.3,Napoli,GS
+2022/23,Club Brugge,1.3,2,0,2.1,Atlético Madrid,GS
+2022/23,RB Salzburg,2.2,1,0,0.7,Dinamo Zagreb,GS
+2022/23,RB Leipzig,1.2,3,1,0.9,Celtic,GS
+2022/23,Chelsea,1.1,3,0,0.4,Milan,GS
+2022/23,Benfica,1.4,1,1,1.0,Paris S-G,GS
+2022/23,Manchester City,4.3,5,0,0.4,FC Copenhagen,GS
+2022/23,Real Madrid,3.4,2,1,0.8,Shakhtar,GS
+2022/23,Juventus,2.3,3,1,2.0,Maccabi Haifa,GS
+2022/23,Dortmund,2.0,1,4,2.5,Sevilla,GS
+2022/23,FC Copenhagen,0.3,0,0,1.6,Manchester City,GS
+2022/23,Maccabi Haifa,0.8,2,0,0.5,Juventus,GS
+2022/23,Celtic,2.0,0,2,1.7,RB Leipzig,GS
+2022/23,Paris S-G,1.2,1,1,1.2,Benfica,GS
+2022/23,Milan,0.4,0,2,2.2,Chelsea,GS
+2022/23,Dinamo Zagreb,0.9,1,1,1.3,RB Salzburg,GS
+2022/23,Dortmund,0.4,1,1,0.8,Sevilla,GS
+2022/23,Shakhtar,0.5,1,1,1.1,Real Madrid,GS
+2022/23,Atlético Madrid,2.3,0,0,0.6,Club Brugge,GS
+2022/23,Napoli,3.2,4,2,1.6,Ajax,GS
+2022/23,Rangers,0.5,1,7,2.2,Liverpool,GS
+2022/23,Sporting CP,0.3,0,2,2.8,Marseille,GS
+2022/23,Tottenham,3.0,3,2,1.2,Eint Frankfurt,GS
+2022/23,Barcelona,2.2,3,3,2.0,Inter,GS
+2022/23,Viktoria Plzen,1.2,2,4,3.0,Bayern Munich,GS
+2022/23,Leverkusen,2.2,0,3,1.8,Porto,GS
+2022/23,RB Salzburg,1.6,1,2,1.5,Chelsea,GS
+2022/23,Sevilla,1.0,3,0,1.1,FC Copenhagen,GS
+2022/23,Benfica,3.3,4,3,2.4,Juventus,GS
+2022/23,Celtic,1.4,1,1,0.8,Shakhtar,GS
+2022/23,Dinamo Zagreb,0.7,0,4,3.2,Milan,GS
+2022/23,RB Leipzig,2.2,3,2,2.1,Real Madrid,GS
+2022/23,Paris S-G,2.6,7,2,0.8,Maccabi Haifa,GS
+2022/23,Dortmund,1.2,0,0,1.2,Manchester City,GS
+2022/23,Club Brugge,1.4,0,4,3.2,Porto,GS
+2022/23,Inter,2.2,4,0,0.1,Viktoria Plzen,GS
+2022/23,Tottenham,1.7,1,1,0.8,Sporting CP,GS
+2022/23,Barcelona,0.7,0,3,2.1,Bayern Munich,GS
+2022/23,Eint Frankfurt,1.1,2,1,0.7,Marseille,GS
+2022/23,Napoli,1.8,3,0,0.7,Rangers,GS
+2022/23,Atlético Madrid,2.6,2,2,1.5,Leverkusen,GS
+2022/23,Ajax,1.2,0,3,1.6,Liverpool,GS
+2022/23,Porto,2.7,2,1,0.8,Atlético Madrid,GS
+2022/23,Leverkusen,1.1,0,0,0.5,Club Brugge,GS
+2022/23,Sporting CP,0.5,1,2,1.2,Eint Frankfurt,GS
+2022/23,Liverpool,2.4,2,0,0.4,Napoli,GS
+2022/23,Rangers,1.8,1,3,1.8,Ajax,GS
+2022/23,Marseille,1.4,1,2,0.6,Tottenham,GS
+2022/23,Viktoria Plzen,2.6,2,4,2.3,Barcelona,GS
+2022/23,Bayern Munich,1.5,2,0,0.7,Inter,GS
+2022/23,Real Madrid,3.8,5,1,2.1,Celtic,GS
+2022/23,Shakhtar,0.2,0,4,2.2,RB Leipzig,GS
+2022/23,Manchester City,2.0,3,1,0.4,Sevilla,GS
+2022/23,Chelsea,2.7,2,1,0.9,Dinamo Zagreb,GS
+2022/23,FC Copenhagen,1.8,1,1,1.2,Dortmund,GS
+2022/23,Milan,1.8,4,0,1.6,RB Salzburg,GS
+2022/23,Juventus,1.6,1,2,0.5,Paris S-G,GS
+2022/23,Maccabi Haifa,1.6,1,6,1.5,Benfica,GS
+2021/22,Young Boys,1.4,2,1,0.5,Manchester Utd,GS
+2021/22,Sevilla,1.5,1,1,2.9,RB Salzburg,GS
+2021/22,Chelsea,0.7,1,1,0.9,Zenit,GS
+2021/22,Villarreal,2.3,2,2,1.3,Atalanta,GS
+2021/22,Lille,1.6,0,0,0.1,Wolfsburg,GS
+2021/22,Barcelona,0.2,0,3,2.7,Bayern Munich,GS
+2021/22,Malmö,0.4,0,3,3.5,Juventus,GS
+2021/22,Dynamo Kyiv,0.6,0,0,1.0,Benfica,GS
+2021/22,Beşiktaş,1.2,1,2,3.0,Dortmund,GS
+2021/22,Sheriff Tiraspol,1.0,2,0,0.8,Shakhtar,GS
+2021/22,Liverpool,2.5,3,2,1.6,Milan,GS
+2021/22,Sporting CP,0.7,1,5,3.1,Ajax,GS
+2021/22,Manchester City,1.9,6,3,0.9,RB Leipzig,GS
+2021/22,Inter,2.4,0,1,1.2,Real Madrid,GS
+2021/22,Club Brugge,1.3,1,1,1.4,Paris S-G,GS
+2021/22,Atlético Madrid,0.3,0,0,1.6,Porto,GS
+2021/22,Ajax,3.5,2,0,0.9,Beşiktaş,GS
+2021/22,Shakhtar,1.3,0,0,1.0,Inter,GS
+2021/22,Porto,0.9,1,5,3.4,Liverpool,GS
+2021/22,Dortmund,0.3,1,0,0.4,Sporting CP,GS
+2021/22,RB Leipzig,1.3,1,2,1.4,Club Brugge,GS
+2021/22,Real Madrid,3.1,1,2,0.4,Sheriff Tiraspol,GS
+2021/22,Paris S-G,0.4,2,0,1.9,Manchester City,GS
+2021/22,Milan,0.7,1,2,2.1,Atlético Madrid,GS
+2021/22,Atalanta,2.5,1,0,0.1,Young Boys,GS
+2021/22,Zenit,2.5,4,1,0.5,Malmö,GS
+2021/22,Benfica,1.9,3,0,1.2,Barcelona,GS
+2021/22,Manchester Utd,1.1,2,1,2.3,Villarreal,GS
+2021/22,Bayern Munich,2.7,5,0,0.5,Dynamo Kyiv,GS
+2021/22,RB Salzburg,2.1,2,1,0.5,Lille,GS
+2021/22,Juventus,0.9,1,0,1.3,Chelsea,GS
+2021/22,Wolfsburg,1.2,1,1,1.4,Sevilla,GS
+2021/22,Club Brugge,0.6,1,5,4.7,Manchester City,GS
+2021/22,Beşiktaş,0.9,1,4,4.4,Sporting CP,GS
+2021/22,Porto,1.1,1,0,0.2,Milan,GS
+2021/22,Inter,2.3,3,1,0.4,Sheriff Tiraspol,GS
+2021/22,Paris S-G,3.0,3,2,2.1,RB Leipzig,GS
+2021/22,Ajax,2.1,4,0,1.2,Dortmund,GS
+2021/22,Atlético Madrid,2.2,2,3,1.3,Liverpool,GS
+2021/22,Shakhtar,0.7,0,5,2.6,Real Madrid,GS
+2021/22,Barcelona,2.2,1,0,0.1,Dynamo Kyiv,GS
+2021/22,RB Salzburg,2.7,3,1,0.9,Wolfsburg,GS
+2021/22,Manchester Utd,2.8,3,2,1.6,Atalanta,GS
+2021/22,Benfica,0.7,0,4,3.0,Bayern Munich,GS
+2021/22,Chelsea,2.6,4,0,0.1,Malmö,GS
+2021/22,Young Boys,2.7,1,4,2.7,Villarreal,GS
+2021/22,Lille,0.8,0,0,1.1,Sevilla,GS
+2021/22,Zenit,0.6,0,1,1.2,Juventus,GS
+2021/22,Wolfsburg,1.7,2,1,1.6,RB Salzburg,GS
+2021/22,Malmö,0.2,0,1,2.5,Chelsea,GS
+2021/22,Villarreal,2.2,2,0,1.1,Young Boys,GS
+2021/22,Bayern Munich,4.8,5,2,1.0,Benfica,GS
+2021/22,Juventus,2.7,4,2,1.3,Zenit,GS
+2021/22,Atalanta,1.5,2,2,1.1,Manchester Utd,GS
+2021/22,Sevilla,1.0,1,2,1.9,Lille,GS
+2021/22,Dynamo Kyiv,1.1,0,1,1.1,Barcelona,GS
+2021/22,Milan,0.6,1,1,1.8,Porto,GS
+2021/22,Real Madrid,2.0,2,1,1.3,Shakhtar,GS
+2021/22,Liverpool,3.0,2,0,0.2,Atlético Madrid,GS
+2021/22,Sporting CP,2.7,4,0,1.1,Beşiktaş,GS
+2021/22,Manchester City,4.6,4,1,0.8,Club Brugge,GS
+2021/22,Dortmund,1.7,1,3,2.0,Ajax,GS
+2021/22,RB Leipzig,3.3,2,2,2.1,Paris S-G,GS
+2021/22,Sheriff Tiraspol,0.3,1,3,2.5,Inter,GS
+2021/22,Villarreal,0.6,0,2,1.2,Manchester Utd,GS
+2021/22,Dynamo Kyiv,1.1,1,2,1.0,Bayern Munich,GS
+2021/22,Chelsea,3.0,4,0,0.7,Juventus,GS
+2021/22,Malmö,0.2,1,1,1.9,Zenit,GS
+2021/22,Sevilla,1.6,2,0,0.3,Wolfsburg,GS
+2021/22,Lille,0.7,1,0,0.5,RB Salzburg,GS
+2021/22,Young Boys,0.7,3,3,1.2,Atalanta,GS
+2021/22,Barcelona,1.4,0,0,1.2,Benfica,GS
+2021/22,Inter,2.6,2,0,0.6,Shakhtar,GS
+2021/22,Liverpool,0.6,2,0,1.1,Porto,GS
+2021/22,Sporting CP,1.9,3,1,1.6,Dortmund,GS
+2021/22,Manchester City,2.1,2,1,1.0,Paris S-G,GS
+2021/22,Beşiktaş,1.9,1,2,2.5,Ajax,GS
+2021/22,Atlético Madrid,0.9,0,1,1.3,Milan,GS
+2021/22,Club Brugge,0.9,0,5,3.8,RB Leipzig,GS
+2021/22,Sheriff Tiraspol,1.4,0,3,1.5,Real Madrid,GS
+2021/22,RB Leipzig,1.7,2,1,1.2,Manchester City,GS
+2021/22,Paris S-G,3.6,4,1,1.1,Club Brugge,GS
+2021/22,Porto,1.6,1,3,3.7,Atlético Madrid,GS
+2021/22,Ajax,2.1,4,2,1.2,Sporting CP,GS
+2021/22,Real Madrid,1.2,2,0,0.9,Inter,GS
+2021/22,Dortmund,1.5,5,0,0.1,Beşiktaş,GS
+2021/22,Milan,1.4,1,2,1.9,Liverpool,GS
+2021/22,Shakhtar,2.0,1,1,1.0,Sheriff Tiraspol,GS
+2021/22,Juventus,2.1,1,0,0.2,Malmö,GS
+2021/22,Manchester Utd,1.2,1,1,1.3,Young Boys,GS
+2021/22,Benfica,1.1,2,0,1.0,Dynamo Kyiv,GS
+2021/22,Zenit,2.6,3,3,2.7,Chelsea,GS
+2021/22,RB Salzburg,0.6,1,0,0.9,Sevilla,GS
+2021/22,Bayern Munich,2.4,3,0,0.4,Barcelona,GS
+2021/22,Wolfsburg,0.7,1,3,2.5,Lille,GS
+2021/22,Atalanta,2.0,2,3,2.2,Villarreal,GS
+2020/21,Dynamo Kyiv,0.5,0,2,2.0,Juventus,GS
+2020/21,Zenit,2.2,1,2,2.0,Club Brugge,GS
+2020/21,Chelsea,0.4,0,0,0.2,Sevilla,GS
+2020/21,RB Leipzig,1.0,2,0,0.6,Başakşehir,GS
+2020/21,Barcelona,2.8,5,1,1.3,Ferencváros,GS
+2020/21,Lazio,1.7,3,1,1.3,Dortmund,GS
+2020/21,Paris S-G,1.4,1,2,1.4,Manchester Utd,GS
+2020/21,Rennes,2.7,1,1,1.4,Krasnodar,GS
+2020/21,RB Salzburg,1.1,2,2,0.8,Loko Moscow,GS
+2020/21,Real Madrid,1.0,2,3,1.7,Shakhtar,GS
+2020/21,Manchester City,1.5,3,1,0.2,Porto,GS
+2020/21,Inter,2.8,2,2,1.4,Gladbach,GS
+2020/21,Bayern Munich,2.6,4,0,0.4,Atlético Madrid,GS
+2020/21,Ajax,1.4,0,1,1.1,Liverpool,GS
+2020/21,Midtjylland,0.8,0,4,2.5,Atalanta,GS
+2020/21,Olympiacos,1.0,1,0,0.9,Marseille,GS
+2020/21,Shakhtar,0.1,0,0,1.7,Inter,GS
+2020/21,Porto,1.4,2,0,1.0,Olympiacos,GS
+2020/21,Liverpool,2.2,2,0,1.2,Midtjylland,GS
+2020/21,Loko Moscow,1.5,1,2,3.2,Bayern Munich,GS
+2020/21,Atlético Madrid,2.5,3,2,1.1,RB Salzburg,GS
+2020/21,Marseille,1.7,0,2,1.4,Manchester City,GS
+2020/21,Gladbach,0.1,0,3,1.9,Real Madrid,GS
+2020/21,Manchester Utd,3.2,5,0,0.5,RB Leipzig,GS
+2020/21,Krasnodar,0.6,0,4,2.4,Chelsea,GS
+2020/21,Başakşehir,0.9,0,2,2.4,Paris S-G,GS
+2020/21,Juventus,1.4,0,2,2.3,Barcelona,GS
+2020/21,Club Brugge,2.1,1,1,0.8,Lazio,GS
+2020/21,Ferencváros,1.0,2,2,1.6,Dynamo Kyiv,GS
+2020/21,Dortmund,1.7,2,0,0.2,Zenit,GS
+2020/21,Sevilla,2.6,1,0,0.1,Rennes,GS
+2020/21,Shakhtar,0.4,0,6,2.3,Gladbach,GS
+2020/21,Porto,2.4,3,0,1.0,Marseille,GS
+2020/21,Manchester City,1.7,3,0,0.6,Olympiacos,GS
+2020/21,Loko Moscow,0.9,1,1,1.0,Atlético Madrid,GS
+2020/21,Midtjylland,0.7,1,2,0.7,Ajax,GS
+2020/21,RB Salzburg,1.8,2,6,2.9,Bayern Munich,GS
+2020/21,Atalanta,1.2,0,5,2.5,Liverpool,GS
+2020/21,Real Madrid,1.2,3,2,0.7,Inter,GS
+2020/21,Chelsea,3.3,3,0,0.6,Rennes,GS
+2020/21,Başakşehir,1.0,2,1,0.7,Manchester Utd,GS
+2020/21,Zenit,1.2,1,1,0.7,Lazio,GS
+2020/21,Ferencváros,1.5,1,4,2.7,Juventus,GS
+2020/21,Club Brugge,1.2,0,3,1.8,Dortmund,GS
+2020/21,Barcelona,3.5,2,1,2.7,Dynamo Kyiv,GS
+2020/21,Sevilla,2.0,3,2,1.4,Krasnodar,GS
+2020/21,RB Leipzig,1.9,2,1,1.3,Paris S-G,GS
+2020/21,Rennes,1.1,1,2,2.2,Chelsea,GS
+2020/21,Manchester Utd,2.9,4,1,1.3,Başakşehir,GS
+2020/21,Krasnodar,1.1,1,2,1.6,Sevilla,GS
+2020/21,Dortmund,1.6,3,0,0.1,Club Brugge,GS
+2020/21,Juventus,1.0,2,1,0.4,Ferencváros,GS
+2020/21,Paris S-G,1.1,1,0,1.4,RB Leipzig,GS
+2020/21,Lazio,3.3,3,1,0.6,Zenit,GS
+2020/21,Dynamo Kyiv,0.3,0,4,3.0,Barcelona,GS
+2020/21,Gladbach,3.2,4,0,0.7,Shakhtar,GS
+2020/21,Olympiacos,0.1,0,1,2.4,Manchester City,GS
+2020/21,Liverpool,0.2,0,2,1.2,Atalanta,GS
+2020/21,Ajax,2.4,3,1,1.4,Midtjylland,GS
+2020/21,Inter,0.2,0,2,2.0,Real Madrid,GS
+2020/21,Marseille,1.3,0,2,2.1,Porto,GS
+2020/21,Atlético Madrid,1.6,0,0,0.2,Loko Moscow,GS
+2020/21,Bayern Munich,1.3,3,1,3.3,RB Salzburg,GS
+2020/21,Shakhtar,1.3,2,0,1.4,Real Madrid,GS
+2020/21,Liverpool,2.0,1,0,1.5,Ajax,GS
+2020/21,Porto,0.1,0,0,2.5,Manchester City,GS
+2020/21,Loko Moscow,1.1,1,3,2.4,RB Salzburg,GS
+2020/21,Gladbach,1.3,2,3,1.6,Inter,GS
+2020/21,Marseille,2.0,2,1,0.3,Olympiacos,GS
+2020/21,Atalanta,2.4,1,1,0.7,Midtjylland,GS
+2020/21,Atlético Madrid,1.6,1,1,1.1,Bayern Munich,GS
+2020/21,Manchester Utd,1.2,1,3,2.8,Paris S-G,GS
+2020/21,Krasnodar,1.5,1,0,0.7,Rennes,GS
+2020/21,Başakşehir,0.6,3,4,2.1,RB Leipzig,GS
+2020/21,Juventus,2.9,3,0,0.6,Dynamo Kyiv,GS
+2020/21,Dortmund,1.4,1,1,1.9,Lazio,GS
+2020/21,Club Brugge,2.0,3,0,0.2,Zenit,GS
+2020/21,Ferencváros,0.8,0,3,4.0,Barcelona,GS
+2020/21,Sevilla,1.3,0,4,2.4,Chelsea,GS
+2020/21,Lazio,2.7,2,2,1.1,Club Brugge,GS
+2020/21,Chelsea,2.5,1,1,0.4,Krasnodar,GS
+2020/21,Zenit,1.2,1,2,1.6,Dortmund,GS
+2020/21,RB Leipzig,1.5,3,2,2.0,Manchester Utd,GS
+2020/21,Barcelona,0.9,0,3,2.9,Juventus,GS
+2020/21,Rennes,2.4,1,3,1.5,Sevilla,GS
+2020/21,Dynamo Kyiv,0.5,1,0,0.7,Ferencváros,GS
+2020/21,Paris S-G,3.1,5,1,0.8,Başakşehir,GS
+2020/21,Midtjylland,2.3,1,1,1.1,Liverpool,GS
+2020/21,Ajax,0.7,0,1,1.2,Atalanta,GS
+2020/21,Manchester City,2.4,3,0,0.5,Marseille,GS
+2020/21,Inter,1.3,0,0,0.4,Shakhtar,GS
+2020/21,Real Madrid,2.8,2,0,1.0,Gladbach,GS
+2020/21,Bayern Munich,1.7,2,0,0.4,Loko Moscow,GS
+2020/21,RB Salzburg,1.4,0,2,0.6,Atlético Madrid,GS
+2020/21,Olympiacos,1.0,0,2,1.0,Porto,GS
+2019/20,Lyon,1.6,1,1,1.0,Zenit,GS
+2019/20,Inter,1.4,1,1,1.0,Slavia Prague,GS
+2019/20,Benfica,1.8,1,2,1.0,RB Leipzig,GS
+2019/20,Chelsea,2.8,0,1,1.0,Valencia,GS
+2019/20,RB Salzburg,4.3,6,2,0.7,Genk,GS
+2019/20,Ajax,1.5,3,0,2.0,Lille,GS
+2019/20,Napoli,1.8,2,0,0.7,Liverpool,GS
+2019/20,Dortmund,3.4,0,0,0.4,Barcelona,GS
+2019/20,Club Brugge,1.7,0,0,0.6,Galatasaray,GS
+2019/20,Olympiacos,1.7,2,2,1.7,Tottenham,GS
+2019/20,Paris S-G,1.7,3,0,0.6,Real Madrid,GS
+2019/20,Dinamo Zagreb,2.7,4,0,1.8,Atalanta,GS
+2019/20,Leverkusen,1.5,1,2,0.9,Loko Moscow,GS
+2019/20,Atlético Madrid,2.3,2,2,1.1,Juventus,GS
+2019/20,Bayern Munich,4.3,3,0,0.3,Red Star,GS
+2019/20,Shakhtar,0.9,0,3,2.5,Manchester City,GS
+2019/20,Atalanta,2.5,1,2,1.5,Shakhtar,GS
+2019/20,Real Madrid,2.3,2,2,1.4,Club Brugge,GS
+2019/20,Tottenham,1.9,2,7,1.3,Bayern Munich,GS
+2019/20,Manchester City,3.6,2,0,0.1,Dinamo Zagreb,GS
+2019/20,Red Star,1.3,3,1,0.9,Olympiacos,GS
+2019/20,Juventus,1.2,3,0,0.5,Leverkusen,GS
+2019/20,Loko Moscow,1.1,0,2,2.9,Atlético Madrid,GS
+2019/20,Galatasaray,0.5,0,1,2.6,Paris S-G,GS
+2019/20,Genk,0.7,0,0,3.2,Napoli,GS
+2019/20,Slavia Prague,1.4,0,2,0.8,Dortmund,GS
+2019/20,Liverpool,2.5,4,3,1.6,RB Salzburg,GS
+2019/20,Valencia,2.0,0,3,1.7,Ajax,GS
+2019/20,Barcelona,1.5,2,1,1.1,Inter,GS
+2019/20,RB Leipzig,1.9,0,2,1.5,Lyon,GS
+2019/20,Lille,0.6,1,2,1.4,Chelsea,GS
+2019/20,Zenit,2.1,3,1,1.2,Benfica,GS
+2019/20,Atlético Madrid,0.8,1,0,0.5,Leverkusen,GS
+2019/20,Shakhtar,1.5,2,2,2.1,Dinamo Zagreb,GS
+2019/20,Manchester City,4.2,5,1,1.8,Atalanta,GS
+2019/20,Tottenham,3.7,5,0,0.6,Red Star,GS
+2019/20,Juventus,2.4,2,1,0.7,Loko Moscow,GS
+2019/20,Club Brugge,0.3,0,5,3.5,Paris S-G,GS
+2019/20,Olympiacos,0.5,2,3,2.6,Bayern Munich,GS
+2019/20,Galatasaray,1.2,0,1,2.4,Real Madrid,GS
+2019/20,RB Leipzig,2.2,2,1,0.7,Zenit,GS
+2019/20,Ajax,0.5,0,1,1.6,Chelsea,GS
+2019/20,Benfica,0.5,2,1,1.5,Lyon,GS
+2019/20,Lille,1.9,1,1,0.6,Valencia,GS
+2019/20,Genk,1.3,1,4,2.5,Liverpool,GS
+2019/20,RB Salzburg,2.7,2,3,0.9,Napoli,GS
+2019/20,Slavia Prague,1.5,1,2,2.5,Barcelona,GS
+2019/20,Inter,2.1,2,0,0.4,Dortmund,GS
+2019/20,Barcelona,2.3,0,0,0.3,Slavia Prague,GS
+2019/20,Liverpool,2.3,2,1,0.7,Genk,GS
+2019/20,Chelsea,4.8,4,4,1.0,Ajax,GS
+2019/20,Zenit,1.2,0,2,1.4,RB Leipzig,GS
+2019/20,Valencia,2.3,4,1,1.5,Lille,GS
+2019/20,Dortmund,3.5,3,2,1.4,Inter,GS
+2019/20,Napoli,2.7,1,1,1.5,RB Salzburg,GS
+2019/20,Lyon,1.4,3,1,1.3,Benfica,GS
+2019/20,Bayern Munich,3.3,2,0,0.2,Olympiacos,GS
+2019/20,Loko Moscow,2.4,1,2,2.4,Juventus,GS
+2019/20,Red Star,0.5,0,4,2.5,Tottenham,GS
+2019/20,Real Madrid,4.2,6,0,0.6,Galatasaray,GS
+2019/20,Leverkusen,1.3,2,1,2.0,Atlético Madrid,GS
+2019/20,Paris S-G,1.9,1,0,1.8,Club Brugge,GS
+2019/20,Dinamo Zagreb,2.0,3,3,2.7,Shakhtar,GS
+2019/20,Atalanta,0.7,1,1,2.0,Manchester City,GS
+2019/20,Tottenham,2.2,4,2,1.2,Olympiacos,GS
+2019/20,Manchester City,1.2,1,1,1.0,Shakhtar,GS
+2019/20,Loko Moscow,1.0,0,2,0.7,Leverkusen,GS
+2019/20,Galatasaray,0.9,1,1,1.1,Club Brugge,GS
+2019/20,Red Star,0.2,0,6,4.9,Bayern Munich,GS
+2019/20,Juventus,0.4,1,0,0.7,Atlético Madrid,GS
+2019/20,Atalanta,3.0,2,0,0.3,Dinamo Zagreb,GS
+2019/20,Real Madrid,3.9,2,2,2.4,Paris S-G,GS
+2019/20,Valencia,3.1,2,2,2.1,Chelsea,GS
+2019/20,Liverpool,0.8,1,1,0.5,Napoli,GS
+2019/20,Zenit,0.9,2,0,0.6,Lyon,GS
+2019/20,Slavia Prague,2.4,1,3,2.3,Inter,GS
+2019/20,Barcelona,2.4,3,1,1.6,Dortmund,GS
+2019/20,Genk,1.6,1,4,3.0,RB Salzburg,GS
+2019/20,RB Leipzig,3.2,2,2,0.9,Benfica,GS
+2019/20,Lille,2.4,0,2,1.6,Ajax,GS
+2019/20,Napoli,3.0,4,0,1.8,Genk,GS
+2019/20,RB Salzburg,0.7,0,2,3.4,Liverpool,GS
+2019/20,Benfica,2.4,3,0,0.1,Zenit,GS
+2019/20,Chelsea,2.7,2,1,0.3,Lille,GS
+2019/20,Inter,1.7,1,2,1.5,Barcelona,GS
+2019/20,Lyon,1.1,2,2,3.4,RB Leipzig,GS
+2019/20,Dortmund,2.9,2,1,2.8,Slavia Prague,GS
+2019/20,Ajax,1.2,0,1,1.1,Valencia,GS
+2019/20,Dinamo Zagreb,0.4,1,4,3.6,Manchester City,GS
+2019/20,Shakhtar,0.6,0,3,2.9,Atalanta,GS
+2019/20,Leverkusen,2.2,0,2,0.9,Juventus,GS
+2019/20,Atlético Madrid,3.2,2,0,0.1,Loko Moscow,GS
+2019/20,Bayern Munich,2.9,3,1,1.0,Tottenham,GS
+2019/20,Paris S-G,4.4,5,0,0.3,Galatasaray,GS
+2019/20,Club Brugge,1.0,1,3,1.2,Real Madrid,GS
+2019/20,Olympiacos,3.5,1,0,1.2,Red Star,GS
+2018/19,Barcelona,1.5,4,0,0.7,PSV Eindhoven,GS
+2018/19,Inter,1.2,2,1,0.8,Tottenham,GS
+2018/19,Liverpool,2.3,3,2,0.8,Paris S-G,GS
+2018/19,Red Star,0.2,0,0,1.6,Napoli,GS
+2018/19,Schalke 04,0.9,1,1,2.2,Porto,GS
+2018/19,Monaco,0.7,1,2,0.9,Atlético Madrid,GS
+2018/19,Club Brugge,0.6,0,1,1.0,Dortmund,GS
+2018/19,Galatasaray,1.8,3,0,0.9,Loko Moscow,GS
+2018/19,Ajax,1.7,3,0,0.4,AEK Athens,GS
+2018/19,Shakhtar,0.6,2,2,1.8,Hoffenheim,GS
+2018/19,Benfica,0.7,0,2,2.4,Bayern Munich,GS
+2018/19,Manchester City,1.2,1,2,0.8,Lyon,GS
+2018/19,Young Boys,1.7,0,3,2.0,Manchester Utd,GS
+2018/19,Real Madrid,3.5,3,0,0.6,Roma,GS
+2018/19,Viktoria Plzeň,1.5,2,2,1.7,CSKA Moscow,GS
+2018/19,Valencia,2.0,0,2,3.7,Juventus,GS
+2018/19,Juventus,3.3,3,0,0.2,Young Boys,GS
+2018/19,Hoffenheim,0.6,1,2,2.2,Manchester City,GS
+2018/19,Manchester Utd,0.9,0,0,0.4,Valencia,GS
+2018/19,Bayern Munich,1.5,1,1,1.2,Ajax,GS
+2018/19,Lyon,2.8,2,2,1.6,Shakhtar,GS
+2018/19,Roma,3.1,5,0,0.3,Viktoria Plzeň,GS
+2018/19,AEK Athens,2.8,2,3,1.2,Benfica,GS
+2018/19,CSKA Moscow,0.4,1,0,2.2,Real Madrid,GS
+2018/19,Paris S-G,5.4,6,1,0.3,Red Star,GS
+2018/19,Loko Moscow,0.7,0,1,1.0,Schalke 04,GS
+2018/19,Porto,1.8,1,0,1.5,Galatasaray,GS
+2018/19,Tottenham,0.5,2,4,1.4,Barcelona,GS
+2018/19,Dortmund,3.2,3,0,0.5,Monaco,GS
+2018/19,PSV Eindhoven,0.7,1,2,2.6,Inter,GS
+2018/19,Atlético Madrid,1.8,3,1,0.6,Club Brugge,GS
+2018/19,Napoli,1.9,1,0,0.1,Liverpool,GS
+2018/19,Young Boys,1.9,1,1,0.9,Valencia,GS
+2018/19,AEK Athens,0.3,0,2,2.3,Bayern Munich,GS
+2018/19,Manchester Utd,0.3,0,1,1.3,Juventus,GS
+2018/19,Roma,2.3,3,0,0.5,CSKA Moscow,GS
+2018/19,Ajax,1.5,1,0,0.7,Benfica,GS
+2018/19,Hoffenheim,4.1,3,3,1.5,Lyon,GS
+2018/19,Real Madrid,2.6,2,1,1.6,Viktoria Plzeň,GS
+2018/19,Shakhtar,1.1,0,3,2.6,Manchester City,GS
+2018/19,Club Brugge,1.5,1,1,0.8,Monaco,GS
+2018/19,PSV Eindhoven,0.9,2,2,2.0,Tottenham,GS
+2018/19,Liverpool,5.0,4,0,0.5,Red Star,GS
+2018/19,Barcelona,2.2,2,0,1.0,Inter,GS
+2018/19,Dortmund,2.0,4,0,0.6,Atlético Madrid,GS
+2018/19,Paris S-G,1.1,2,2,1.7,Napoli,GS
+2018/19,Loko Moscow,2.1,1,3,1.5,Porto,GS
+2018/19,Galatasaray,0.6,0,0,2.2,Schalke 04,GS
+2018/19,Monaco,1.1,0,4,1.9,Club Brugge,GS
+2018/19,Red Star,0.7,2,0,2.2,Liverpool,GS
+2018/19,Tottenham,3.5,2,1,0.6,PSV Eindhoven,GS
+2018/19,Porto,1.4,4,1,0.7,Loko Moscow,GS
+2018/19,Schalke 04,1.5,2,0,0.7,Galatasaray,GS
+2018/19,Atlético Madrid,1.5,2,0,0.6,Dortmund,GS
+2018/19,Inter,1.0,1,1,1.6,Barcelona,GS
+2018/19,Napoli,2.0,1,1,1.3,Paris S-G,GS
+2018/19,Valencia,1.8,3,1,1.0,Young Boys,GS
+2018/19,Manchester City,3.4,6,0,0.4,Shakhtar,GS
+2018/19,Benfica,1.4,1,1,1.6,Ajax,GS
+2018/19,CSKA Moscow,1.1,1,2,2.4,Roma,GS
+2018/19,Juventus,1.9,1,2,0.8,Manchester Utd,GS
+2018/19,Viktoria Plzeň,0.5,0,5,1.6,Real Madrid,GS
+2018/19,Lyon,2.5,2,2,1.9,Hoffenheim,GS
+2018/19,Bayern Munich,2.7,2,0,0.4,AEK Athens,GS
+2018/19,AEK Athens,0.4,0,2,2.2,Ajax,GS
+2018/19,Manchester Utd,1.3,1,0,0.6,Young Boys,GS
+2018/19,CSKA Moscow,2.2,1,2,2.0,Viktoria Plzeň,GS
+2018/19,Lyon,2.3,2,2,1.0,Manchester City,GS
+2018/19,Juventus,1.8,1,0,0.3,Valencia,GS
+2018/19,Hoffenheim,1.3,2,3,2.1,Shakhtar,GS
+2018/19,Bayern Munich,1.9,5,1,0.5,Benfica,GS
+2018/19,Roma,2.1,0,2,1.7,Real Madrid,GS
+2018/19,Atlético Madrid,0.9,2,0,1.3,Monaco,GS
+2018/19,Tottenham,1.3,1,0,1.0,Inter,GS
+2018/19,Porto,1.6,3,1,0.9,Schalke 04,GS
+2018/19,Loko Moscow,1.4,2,0,1.3,Galatasaray,GS
+2018/19,Paris S-G,1.5,2,1,1.3,Liverpool,GS
+2018/19,Dortmund,1.2,0,0,0.3,Club Brugge,GS
+2018/19,Napoli,2.4,3,1,0.8,Red Star,GS
+2018/19,PSV Eindhoven,3.0,1,2,2.4,Barcelona,GS
+2018/19,Schalke 04,2.1,1,0,0.7,Loko Moscow,GS
+2018/19,Liverpool,3.0,1,0,1.2,Napoli,GS
+2018/19,Galatasaray,3.9,2,3,1.7,Porto,GS
+2018/19,Monaco,0.6,0,2,2.6,Dortmund,GS
+2018/19,Red Star,0.4,1,4,2.9,Paris S-G,GS
+2018/19,Inter,1.9,1,1,1.2,PSV Eindhoven,GS
+2018/19,Club Brugge,0.6,0,0,0.4,Atlético Madrid,GS
+2018/19,Barcelona,1.3,1,1,2.4,Tottenham,GS
+2018/19,Viktoria Plzeň,2.0,2,1,1.1,Roma,GS
+2018/19,Real Madrid,1.3,0,3,0.9,CSKA Moscow,GS
+2018/19,Manchester City,3.4,2,1,1.4,Hoffenheim,GS
+2018/19,Benfica,1.8,1,0,0.4,AEK Athens,GS
+2018/19,Young Boys,1.2,2,1,2.1,Juventus,GS
+2018/19,Valencia,1.4,2,1,1.8,Manchester Utd,GS
+2018/19,Ajax,3.0,3,3,3.1,Bayern Munich,GS
+2018/19,Shakhtar,1.1,1,1,1.3,Lyon,GS
+2017/18,Benfica,2.1,1,2,1.6,CSKA Moscow,GS
+2017/18,Manchester United,3.4,3,0,0.6,Basel,GS
+2017/18,Chelsea,2.0,6,0,0.3,Qarabag,GS
+2017/18,Celtic,0.4,0,5,2.5,Paris Saint-Germain,GS
+2017/18,Barcelona,0.9,3,0,0.7,Juventus,GS
+2017/18,Bayern Munich,4.2,3,0,0.8,Anderlecht,GS
+2017/18,Roma,0.5,0,0,2.4,Atletico Madrid,GS
+2017/18,Olympiacos,1.1,2,3,2.6,Sporting CP,GS
+2017/18,Tottenham,1.2,3,1,0.8,Dortmund,GS
+2017/18,Liverpool,2.4,2,2,1.2,Sevilla,GS
+2017/18,Porto,1.5,1,3,0.9,Besiktas,GS
+2017/18,Maribor,1.1,1,1,1.8,Spartak Moscow,GS
+2017/18,Feyenoord,0.3,0,4,1.3,Manchester City,GS
+2017/18,Real Madrid,3.9,3,0,0.2,APOEL FC,GS
+2017/18,RB Leipzig,0.9,1,1,1.1,Monaco,GS
+2017/18,Shakhtar,1.4,2,1,1.9,Napoli,GS
+2017/18,Manchester City,3.2,2,0,0.5,Shakhtar,GS
+2017/18,Monaco,0.6,0,3,2.9,Porto,GS
+2017/18,Sevilla,3.9,3,0,0.4,Maribor,GS
+2017/18,Dortmund,1.2,1,3,3.2,Real Madrid,GS
+2017/18,Napoli,0.9,3,1,1.6,Feyenoord,GS
+2017/18,Besiktas,1.0,2,0,1.1,RB Leipzig,GS
+2017/18,Spartak Moscow,0.2,1,1,2.8,Liverpool,GS
+2017/18,APOEL FC,1.0,0,3,1.8,Tottenham,GS
+2017/18,CSKA Moscow,0.6,1,4,4.3,Manchester United,GS
+2017/18,Sporting CP,0.7,0,1,0.9,Barcelona,GS
+2017/18,Qarabag,0.9,1,2,1.9,Roma,GS
+2017/18,Paris Saint-Germain,2.0,3,0,1.0,Bayern Munich,GS
+2017/18,Anderlecht,0.6,0,3,1.2,Celtic,GS
+2017/18,Atletico Madrid,1.4,1,2,2.5,Chelsea,GS
+2017/18,Basel,3.2,5,0,0.4,Benfica,GS
+2017/18,Juventus,2.3,2,0,0.5,Olympiacos,GS
+2017/18,Manchester City,2.7,2,1,2.2,Napoli,GS
+2017/18,Feyenoord,1.6,1,2,1.3,Shakhtar,GS
+2017/18,Maribor,0.4,0,7,4.6,Liverpool,GS
+2017/18,Monaco,0.7,1,2,1.2,Besiktas,GS
+2017/18,RB Leipzig,2.5,3,2,1.1,Porto,GS
+2017/18,Real Madrid,2.9,1,1,0.9,Tottenham,GS
+2017/18,Spartak Moscow,1.7,5,1,1.3,Sevilla,GS
+2017/18,APOEL FC,1.0,1,1,2.1,Dortmund,GS
+2017/18,Chelsea,1.6,3,3,1.6,Roma,GS
+2017/18,Benfica,0.5,0,1,0.6,Manchester United,GS
+2017/18,Qarabag,0.4,0,0,1.9,Atletico Madrid,GS
+2017/18,Bayern Munich,3.2,3,0,0.6,Celtic,GS
+2017/18,Anderlecht,1.2,0,4,3.3,Paris Saint-Germain,GS
+2017/18,Barcelona,3.5,3,1,0.2,Olympiacos,GS
+2017/18,Juventus,1.5,2,1,0.5,Sporting CP,GS
+2017/18,CSKA Moscow,0.4,0,2,1.4,Basel,GS
+2017/18,Manchester United,2.7,2,0,0.9,Benfica,GS
+2017/18,Sporting CP,0.5,1,1,2.0,Juventus,GS
+2017/18,Celtic,1.4,1,2,0.7,Bayern Munich,GS
+2017/18,Roma,1.5,3,0,1.3,Chelsea,GS
+2017/18,Paris Saint-Germain,2.6,5,0,0.2,Anderlecht,GS
+2017/18,Basel,1.2,1,2,1.3,CSKA Moscow,GS
+2017/18,Atletico Madrid,3.2,1,1,0.2,Qarabag,GS
+2017/18,Olympiacos,0.3,0,0,1.8,Barcelona,GS
+2017/18,Tottenham,2.3,3,1,2.2,Real Madrid,GS
+2017/18,Porto,1.8,3,1,0.6,RB Leipzig,GS
+2017/18,Liverpool,2.7,3,0,0.3,Maribor,GS
+2017/18,Besiktas,1.3,1,1,1.0,Monaco,GS
+2017/18,Napoli,2.1,2,4,1.4,Manchester City,GS
+2017/18,Dortmund,2.8,1,1,0.6,APOEL FC,GS
+2017/18,Sevilla,0.9,2,1,1.2,Spartak Moscow,GS
+2017/18,Shakhtar,2.6,3,1,1.0,Feyenoord,GS
+2017/18,Manchester City,1.3,1,0,0.3,Feyenoord,GS
+2017/18,Besiktas,0.7,1,1,0.7,Porto,GS
+2017/18,Spartak Moscow,1.4,1,1,1.2,Maribor,GS
+2017/18,Dortmund,1.1,1,2,1.1,Tottenham,GS
+2017/18,Monaco,0.8,1,4,1.5,RB Leipzig,GS
+2017/18,Napoli,1.9,3,0,0.5,Shakhtar,GS
+2017/18,Sevilla,1.9,3,3,2.3,Liverpool,GS
+2017/18,APOEL FC,0.5,0,6,3.7,Real Madrid,GS
+2017/18,Sporting CP,2.0,3,1,0.4,Olympiacos,GS
+2017/18,CSKA Moscow,1.0,2,0,1.0,Benfica,GS
+2017/18,Anderlecht,1.8,1,2,2.2,Bayern Munich,GS
+2017/18,Atletico Madrid,1.4,2,0,0.5,Roma,GS
+2017/18,Paris Saint-Germain,2.8,7,1,0.3,Celtic,GS
+2017/18,Basel,1.1,1,0,1.5,Manchester United,GS
+2017/18,Juventus,0.5,0,0,0.9,Barcelona,GS
+2017/18,Qarabag,0.2,0,4,3.9,Chelsea,GS
+2017/18,Benfica,1.4,0,2,1.4,Basel,GS
+2017/18,Manchester United,2.9,2,1,0.8,CSKA Moscow,GS
+2017/18,Celtic,0.8,0,1,0.7,Anderlecht,GS
+2017/18,Chelsea,2.9,1,1,1.0,Atletico Madrid,GS
+2017/18,Bayern Munich,1.8,3,1,1.9,Paris Saint-Germain,GS
+2017/18,Roma,1.9,1,0,0.4,Qarabag,GS
+2017/18,Barcelona,1.2,2,0,1.0,Sporting CP,GS
+2017/18,Olympiacos,1.0,0,2,1.5,Juventus,GS
+2017/18,Porto,1.9,5,2,1.7,Monaco,GS
+2017/18,Liverpool,4.2,7,0,0.6,Spartak Moscow,GS
+2017/18,Tottenham,2.3,3,0,0.6,APOEL FC,GS
+2017/18,Maribor,0.8,1,1,1.7,Sevilla,GS
+2017/18,Feyenoord,0.7,2,1,1.3,Napoli,GS
+2017/18,RB Leipzig,3.0,1,2,1.8,Besiktas,GS
+2017/18,Real Madrid,2.7,3,2,1.7,Dortmund,GS
+2017/18,Shakhtar,1.7,2,1,1.7,Manchester City,GS
