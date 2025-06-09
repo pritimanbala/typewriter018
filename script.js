@@ -93,7 +93,6 @@ const writing = () => {
     console.log("Started: " + started);
     if(started){
         time();
-        // test has started
         textArea.disabled = false;
         textArea.focus();
         navdiv.style.visibility = "hidden";
@@ -114,7 +113,6 @@ const writing = () => {
         paragraph.style.display="block";
 
     }else if(!started || words === 20) {
-        // test has stopped
         textArea.disabled = true;
         textArea.style.placeholder = "Press start test to Start typing";
         textArea.value = "";
@@ -150,6 +148,5 @@ const writing = () => {
 textArea.disabled = true;
 reload.addEventListener("click", writing)
 textArea.addEventListener("input", checkWords);
-// textArea.addEventListener("input", writing);
 button.addEventListener("click", writing);
 console.log("Script loaded successfully");
