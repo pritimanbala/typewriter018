@@ -1,22 +1,40 @@
-main = [["a11", "a12", "a13"],
-        ["a21", "a22", "a23"],
-        ["a31", "a32", "a33"]]
+main = [[1,1,5,5],
+        [8,5,2,6],
+        [2 ,4,5,9],
+        [3,2,1,4]]
 
-for i in range(3):
-    for j in range(3):
-        a = int(input("enter the value of", main[i][j]))
-        main[i][j] = a
-
+b = [1, 2,3,4]
 # gaussian elimation
-
-def operation(i, a):
-    for j in range(3):
-        main[i][j] = main[i][j] * a
-
-def gaussian_elm():
+l = len(main)
+def sorter(i):
     for i in range(3):
-        if i == 0:
-            operation(i, 1 / main[i][i])
-        else:
-            operation(i, 1/main[i][0])
-            main
+        for j in range(i + 1, l):
+            if main[i][i] >= 0:
+                if main[i][i] < main[j][i]:
+                    main[i], main[j] = main[j], main[i]
+            else:
+                if main[i][i] > main[j][i]:
+                    main[i], main[j] = main[j], main[i]
+            
+def gauss_elm():
+    for i in range(l):
+        sorter(i)
+        for j in range(i + 1, l):
+            if main[j][i] != 0:
+                factor = main[j][i] / main[i][i]
+                for k in range(3):
+                    main[j][k] = main[j][k] - factor * main[i][k]
+    print(main)
+
+
+gauss_elm()
+
+soln = []
+def subs():
+    for i in range(l):
+        soln.append(0)
+    for k in range(l):
+        sum = 0 
+        for j in range(l):
+            sum = soln[l] * main[l-k]
+#do something with the sum that it does back substitution
