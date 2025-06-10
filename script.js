@@ -38,7 +38,7 @@ const getWords = async () => {
 
 getWords();
 const time = () => {
-    setInterval(() => {
+    intervalID = setInterval(() => {
         if (started) {
             timeLeft++;
         }
@@ -130,7 +130,7 @@ const writing = () => {
         });
         resultWpm.innerText = "Wpm: " + Math.floor((correctWords / (timeLeft)) * 60);
         resultAcc.innerText = "Accuracy: " + Math.floor(((correctWords / (words + 0.0000001)) * 100) + 1) + "%";
-        if(Math.floor((correctWords / (timeLeft)) * 60) > 30 || Math.floor(((correctWords / (words + 0.0000001)) * 100) + 1) < 40) {
+        if(Math.floor((correctWords / (timeLeft)) * 60) > 30 && Math.floor(((correctWords / (words + 0.0000001)) * 100) + 1) < 40) {
             img.src = "https://cdn.pixabay.com/animation/2024/02/21/00/56/00-56-39-633_512.gif";
         }
         else if(Math.floor((correctWords / (timeLeft)) * 60) > 40) {
@@ -143,6 +143,7 @@ const writing = () => {
         result.style.display = "flex";
         stats.style.display = "none";
         paragraph.style.display = "none";
+        clearInterval(intervalID);
     }
 }
 textArea.disabled = true;
